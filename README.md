@@ -13,7 +13,7 @@
 
 I'm a sophomore at Emmanuel College double-majoring in Economics and Finance, with a minor in Computer Science. I serve as the **Technology Sector Head** for the Colleges of the Fenway Investment Group (COFIG), where I lead research on public tech equities.
 
-This repository is where that research lives. Every company write-up, every Python script, every valuation model here represents how I actually think about markets. It's not polished marketing, but it's the real analytical work I'm doing as I grow.
+This repository is essentially where that research lives. Every company write-up, every script, every valuation model here represents how I actually think about markets. It's not polished marketing, but it's the analytical work I'm doing as I grow.
 
 **What you'll find here:**
 - Company-level equity research reports with investment theses
