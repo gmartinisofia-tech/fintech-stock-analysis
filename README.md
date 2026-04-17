@@ -1,6 +1,6 @@
 # fintech-stock-analysis
 
-> A working portfolio of equity research, financial modeling, and Python-based market analysis — built publicly as I develop my skills as a sector analyst.
+> A working portfolio of equity research, financial modeling, and market analysis built publicly while I develop my skills as an analyst.
 
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
