@@ -77,3 +77,11 @@ Sofia Martini
 Economics + Finance  
 Computer Science minor  
 Technology Sector Head @ COFIG  
+
+## First Project
+
+- Pulled stock data for SOFI using Python  
+- Created a basic price chart  
+- Wrote initial observations  
+
+This is my first step into using Python for financial analysis.
