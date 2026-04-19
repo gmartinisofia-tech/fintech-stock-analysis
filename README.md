@@ -85,3 +85,10 @@ Technology Sector Head @ COFIG
 - Wrote initial observations  
 
 This is my first step into using Python for financial analysis.
+
+## Current Progress
+
+- Created my first notebook using Python
+- Pulled stock data for SOFI
+- Built a simple stock price chart
+- Started comparing SOFI to the broader market
