@@ -17,4 +17,11 @@ I chose SoFi because it is a growing fintech company and I wanted to understand 
 - Competition from both banks and other fintech companies
 
 ## My Take
-Right now, I see SoFi as a higher-risk, growth-oriented company. It may offer upside, but it is less stable than the broader market. I need to analyze it more before forming a stronger opinion.
+
+Based on what I’ve analyzed so far, I see SoFi as a higher-risk, higher-volatility stock compared to the broader market.
+
+The volatility data supports this opinion, showing that SOFI has larger price swings than the S&P 500, which suggests it is more sensitive to market sentiment and news specific to the company.
+
+At this stage, I wouldn't consider it a stable long-term holding compared to the index. However, it could have upside potential if the company continues to grow and execute well.
+
+My current view is: SOFI may offer growth, but the risk level is significantly higher than the overall market. I would be cautious.
